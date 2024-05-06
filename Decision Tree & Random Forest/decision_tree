@@ -1,0 +1,4 @@
+digraph {
+	node [shape=box]
+	<__main__.Node object at 0x0000025673AA3D90> [label=None]
+}
